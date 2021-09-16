@@ -20,3 +20,4 @@ modal.addEventListener('click', closeBuyTickets)
 modalContainer.addEventListener('click', function(event){
     event.stopPropagation()
 })
+

@@ -177,14 +177,10 @@ html {
     margin-top: 25px;
 }
     
-
-
-
 #content .content-section {
     max-width: 800px;
     padding: 96px 0;
-    margin-left: auto;
-    margin-right: auto;
+    margin: 0 auto;
 }
 
 #content .section-heading {
