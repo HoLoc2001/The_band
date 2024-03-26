@@ -12,7 +12,14 @@
       }
     },
     "liteservers": [
-     
+      {
+        "ip": 84478531,
+        "port": 19939,
+        "id": {
+          "@type": "pub.ed25519",
+          "key": "n4VDnSCUuSpjnCyUk9e3QOOd6o0ItSWYbTnW3Wnn8wk="
+        }
+      }
     ],
     "validator": {
       "@type": "validator.config.global",
