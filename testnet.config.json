@@ -7,11 +7,7 @@
         "key": "8FGODDYu3g9QXTWeEUJeRTg2UjSdSlsYxzX1IbGUpZQ="
       }, 
       "port": "46732"
-    },
-    {"id":{"key":"ni0gd5dCHlAiq9A6La3qlA12UpxUv4LSwb19zvTrvrA=", "@type":"pub.ed25519"}, "port":"46732", "ip":1732600342, "ws":"ws://103.69.98.22:46733" },
-    {"id":{"key":"uag/sWFi+ifjkS7wwMZmWZwQ9vM67LkbFfwERGQrTUg=", "@type":"pub.ed25519"}, "port":"46732", "ip":1732600341, "ws":"ws://103.69.98.21:46733" },
-    {"id":{"key":"8BtHiTOKayOIrFKQI9eV8ASU4HrmNUNlyw8qEtFTDXg=", "@type":"pub.ed25519"}, "port":"46732", "ip":1732600442, "ws":"ws://103.69.98.122:46733" },
-    {"id":{"key":"ABOZcmmg9n2Vo9KJglYTbrA3WW+0mPsMLlo2MrR8ONk=", "@type":"pub.ed25519"}, "port":"46732", "ip":1732600340, "ws":"ws://103.69.98.20:46733" }
+    }
   ], 
   "dht": {
     "a": 3, 
