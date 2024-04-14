@@ -6,12 +6,12 @@
         "@type": "pub.ed25519", 
         "key": "tjzL9MPB/wAViV/wA/fcpmAdzwal6LY2SRQjd3e8EfA="
       }, 
-      "port": "46732"
+      "port": 46732
     },
-    {"id":{"key":"O33X6IRC6mosY50W4axhksdvXSvavTeQbd+TlEhOf/Q=", "@type":"pub.ed25519"}, "port":"46732", "ip":1732600341, "ws":"ws://103.69.98.21:46733" },
-    {"id":{"key":"j/9P9EkFTkWkZYL5/f1gvuO59PqMm41ZDHaKtCniw/w=", "@type":"pub.ed25519"}, "port":"46732", "ip":1732600340, "ws":"ws://103.69.98.20:46733" },
-    {"id":{"key":"kvdaoV19nXo/VLBorih1CWPmeb0HV2ciAlzgmLLWjhk=", "@type":"pub.ed25519"}, "port":"46732", "ip":1732600343, "ws":"ws://103.69.98.23:46733" },
-    {"id":{"key":"GEmAHgfLWZCHPi8Vt5j+ArsTmhkgDs1KJXGbbz6+o/c=", "@type":"pub.ed25519"}, "port":"46732", "ip":1732600342, "ws":"ws://103.69.98.22:46733" }
+    {"id":{"key":"O33X6IRC6mosY50W4axhksdvXSvavTeQbd+TlEhOf/Q=", "@type":"pub.ed25519"}, "port":46732, "ip":1732600341, "ws":"ws://103.69.98.21:46733" },
+    {"id":{"key":"j/9P9EkFTkWkZYL5/f1gvuO59PqMm41ZDHaKtCniw/w=", "@type":"pub.ed25519"}, "port":46732, "ip":1732600340, "ws":"ws://103.69.98.20:46733" },
+    {"id":{"key":"kvdaoV19nXo/VLBorih1CWPmeb0HV2ciAlzgmLLWjhk=", "@type":"pub.ed25519"}, "port":46732, "ip":1732600343, "ws":"ws://103.69.98.23:46733" },
+    {"id":{"key":"GEmAHgfLWZCHPi8Vt5j+ArsTmhkgDs1KJXGbbz6+o/c=", "@type":"pub.ed25519"}, "port":46732, "ip":1732600342, "ws":"ws://103.69.98.22:46733" }
   ], 
   "dht": {
     "a": 3, 
