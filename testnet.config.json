@@ -1,10 +1,10 @@
 {
   "liteservers": [
     {
-      "ip": 1732600342, 
+      "ip": 1732600343, 
       "id": {
         "@type": "pub.ed25519", 
-        "key": "VA4Hz9dQ/dil6LoYJFLysACbZLWBV6oj0eYSn18Y7IU="
+        "key": "GkpdQKyj6/ueA70mNR3dIdgPuwF0H7fw75y957djizQ="
       }, 
       "port": "46732"
     }
@@ -15,14 +15,14 @@
     "static_nodes": {
       "nodes": [
         {
-          "signature": "ja4yNvZY1bqC9t5eh7Gpc8ZbU4eplmq8isCyrQ9QG8GTW6egXLvO9dDgO1/JmZUFVzNr+H5x3NQA2q7lqaDkDA==", 
+          "signature": "72N9YG1o1sk0D0O4a+cNxNJ9obyHhPLN8I7CYk5jAVFkhUQtuGzVwHV9pee5GIQPlI38tTnDsFLKgIqIW4piDg==", 
           "version": -1, 
           "addr_list": {
             "priority": 0, 
             "version": 0, 
             "addrs": [
               {
-                "ip": 1732600342, 
+                "ip": 1732600343, 
                 "@type": "adnl.address.udp", 
                 "port": 30310
               }
@@ -34,7 +34,7 @@
           "@type": "dht.node", 
           "id": {
             "@type": "pub.ed25519", 
-            "key": "O+YBxZc4F/KZows9Zhrqtjc94slFOzwZ1nfCxf93ye0="
+            "key": "kxd2SgWdipWSNXRZCUOrNCoFQlOo2EyaP8aIdZmuGVc="
           }
         }
       ], 
@@ -45,17 +45,17 @@
   "@type": "config.global", 
   "validator": {
     "zero_state": {
-      "file_hash": "I47e16S/J33sdrShaZX9Zd30o/aKeE55jFGfgCFQnWY=", 
+      "file_hash": "SzC2Ac31uFSFG86AIoE7zYnW++tQMciRpEvYMKi7F34=", 
       "seqno": 0, 
-      "root_hash": "lfMZhfwmvz6ijCAkRCNt7J/0DOXKIE9mVlnWvlfSx2w=", 
+      "root_hash": "b8ekgbiI3/OHbkBPfZcQfsneDnFAn0Vu4FLA0SUcENs=", 
       "workchain": -1, 
       "shard": -9223372036854775808
     }, 
     "@type": "validator.config.global", 
     "init_block": {
-      "file_hash": "I47e16S/J33sdrShaZX9Zd30o/aKeE55jFGfgCFQnWY=", 
+      "file_hash": "SzC2Ac31uFSFG86AIoE7zYnW++tQMciRpEvYMKi7F34=", 
       "seqno": 0, 
-      "root_hash": "lfMZhfwmvz6ijCAkRCNt7J/0DOXKIE9mVlnWvlfSx2w=", 
+      "root_hash": "b8ekgbiI3/OHbkBPfZcQfsneDnFAn0Vu4FLA0SUcENs=", 
       "workchain": -1, 
       "shard": -9223372036854775808
     }
