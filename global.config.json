@@ -6,7 +6,7 @@
         "@type": "pub.ed25519", 
         "key": "LlxCHO6urZRAYXVmhP+1HxuABfmf8/6u7ghQzt4sOW0="
       }, 
-      "port": "46732"
+      "port": 46732
     }
   ], 
   "dht": {
