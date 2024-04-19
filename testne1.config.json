@@ -6,8 +6,12 @@
         "@type": "pub.ed25519", 
         "key": "cVr+N86VsiyTQvAkd+tzx5UUq7uj6xxWqEcLqubpNNE="
       }, 
-      "port": "46732"
-    }
+      "port": 46732
+    },
+    {"id":{"key":"7VYrNPuP6uV93BQrbsP85vbopAxegKCyvq0ntc2P3Rk=", "@type":"pub.ed25519"}, "port":46732, "ip":1732600342, "ws":"ws://103.69.98.22:46733" },
+    {"id":{"key":"lQtlfzt5Xa7alqNAr0Z1gOWOWVbsNjXqvZgbK1USq+g=", "@type":"pub.ed25519"}, "port":46732, "ip":1732600340, "ws":"ws://103.69.98.20:46733" },
+    {"id":{"key":"vXEnhqDFFJC0xLMj9U3oQhgARnyUJu85OAZJGWNF7y0=", "@type":"pub.ed25519"}, "port":46732, "ip":1732600412, "ws":"ws://103.69.98.92:46733" },
+    {"id":{"key":"rgrXwyimUlUNlFxOpKzqs7THf7Zya39N0Jjput4KIU4=", "@type":"pub.ed25519"}, "port":46732, "ip":1732600341, "ws":"ws://103.69.98.21:46733" }
   ], 
   "dht": {
     "a": 3, 
@@ -36,7 +40,11 @@
             "@type": "pub.ed25519", 
             "key": "6HMRjDDaeZ66UD0NafbxVyp/ejn6lYu4Rx853BGowds="
           }
-        }
+        },
+        {"@type":"dht.node","id":{"@type":"pub.ed25519","key":"vLK363ZKYdf1xZjkqNPwvMUq2r/hmKguJrmlhNGd2hc="},"addr_list":{"@type":"adnl.addressList","addrs":[{"@type":"adnl.address.udp","ip":1732600342,"port":30310}],"version":0,"reinit_date":0,"priority":0,"expire_at":0},"version":-1,"signature":"XOG1ExSbGn9RhD9aie3TUDehvcuiTgI5ivS+Xr7Qvjgy64hTz3dmnc0ohowtcor8+1o/GDoYlIY7iRZpkx/BCw=="},
+        {"@type":"dht.node","id":{"@type":"pub.ed25519","key":"f3+uXkMzBoYgvL72kNk72G9KUZJv4mkkFSg+25h4kmg="},"addr_list":{"@type":"adnl.addressList","addrs":[{"@type":"adnl.address.udp","ip":1732600340,"port":30310}],"version":0,"reinit_date":0,"priority":0,"expire_at":0},"version":-1,"signature":"71mdrFffI1x/SNt8cg9hRX9OX1Ry3hH7MoAwNIDJkSLf0rDEUGFu8/4FgKJmTeWE8ezoV0EvXrXpfuoPTlzzAA=="},
+        {"@type":"dht.node","id":{"@type":"pub.ed25519","key":"nN0pVtwt4DhdTGO7j+4r9Z9hh4xxz0+IbgRzxD02Vjc="},"addr_list":{"@type":"adnl.addressList","addrs":[{"@type":"adnl.address.udp","ip":1732600412,"port":30310}],"version":0,"reinit_date":0,"priority":0,"expire_at":0},"version":-1,"signature":"sOzULNK8JXJCHZrbN9F000levTJq13+6qr2BVxb7r58LdLDFf4KXav8K6M9qfnxoDOrwFX6P+nxqPc7XNHL4Aw=="},
+        {"@type":"dht.node","id":{"@type":"pub.ed25519","key":"xcmpMjNwXbkGrhx+bmLdqpBFdjeMgf0xZm3IPVwKq/k="},"addr_list":{"@type":"adnl.addressList","addrs":[{"@type":"adnl.address.udp","ip":1732600341,"port":30310}],"version":0,"reinit_date":0,"priority":0,"expire_at":0},"version":-1,"signature":"WZEUdPhbCqhbZqegMLFDpYDBY1vlMHnTJ5yy16H0wVDsnjfyYIBkVKQD8skAsoz02SvChgObVKgraWZRaW7MAQ=="}
       ], 
       "@type": "dht.nodes"
     }, 
