@@ -4,14 +4,10 @@
       "ip": 1732600343, 
       "id": {
         "@type": "pub.ed25519", 
-        "key": "S1gVTMb7bPav6PYqvK9GVc9IqobDzXSHlK9ZZLa+baQ="
+        "key": "cVr+N86VsiyTQvAkd+tzx5UUq7uj6xxWqEcLqubpNNE="
       }, 
-      "port": 46732
-    },
-    {"id":{"key":"oqO877FaaWdseKMjSqwtWPmuERc9ZGTd9QheeF7oWgk=", "@type":"pub.ed25519"}, "port":46732, "ip":1732600342, "ws":"ws://103.69.98.22:46733" },
-    {"id":{"key":"zsYxLYJHrLpbp51EhoQRoINABLYYVVjXeZ0nmniqLrI=", "@type":"pub.ed25519"}, "port":46732, "ip":1732600341, "ws":"ws://103.69.98.21:46733" },
-    {"id":{"key":"hc6bSoC0ilmSw3q0kShy+uh0f93j5UP4J48Dwqb8FAg=", "@type":"pub.ed25519"}, "port":46732, "ip":1732600340, "ws":"ws://103.69.98.20:46733" },
-    {"id":{"key":"HaH0fX+2vAlD23CzrKTOkVMYWaX2IgRwblWCuFyoTIA=", "@type":"pub.ed25519"}, "port":46732, "ip":1732600412, "ws":"ws://103.69.98.92:46733" }
+      "port": "46732"
+    }
   ], 
   "dht": {
     "a": 3, 
@@ -19,7 +15,7 @@
     "static_nodes": {
       "nodes": [
         {
-          "signature": "qMt5Jq4sT1OuX5777XV5NbgshgtvSy3/DRueTUKqEa0NGtVl+fVDVbg7HDkceCNypctYo1ZSqdZoUYA5n8obAQ==", 
+          "signature": "k3T2Q1RvgSDQQSo8c+s3Ip5VZ7ei3Kj/EOUtFyT7APiQIr2QEtnwn/n2ajZHVNsS7yyY41i5K4634aK++0u9Bw==", 
           "version": -1, 
           "addr_list": {
             "priority": 0, 
@@ -38,13 +34,9 @@
           "@type": "dht.node", 
           "id": {
             "@type": "pub.ed25519", 
-            "key": "2+hoYaTL0mZPdD0vhX9wm88SsduPpgy++vkpojGB/X4="
+            "key": "6HMRjDDaeZ66UD0NafbxVyp/ejn6lYu4Rx853BGowds="
           }
-        },
-        {"@type":"dht.node","id":{"@type":"pub.ed25519","key":"5lQTbh3Sn3G7pSKBR3Svd+xWnQT92y5IKT7fAtH42N0="},"addr_list":{"@type":"adnl.addressList","addrs":[{"@type":"adnl.address.udp","ip":1732600342,"port":30310}],"version":0,"reinit_date":0,"priority":0,"expire_at":0},"version":-1,"signature":"uIhxY2mXE3DfoVhm9idRd4qfsJVGEeQzR+NhezNeDpF04RPfaz8EBiANeJW8ufqUnV+Mzp2aIW+OPounmpstBg=="},
-        {"@type":"dht.node","id":{"@type":"pub.ed25519","key":"g3RpgLeVD7U/Ydi44IHuex0nazsL1pyIKosfCVjklbI="},"addr_list":{"@type":"adnl.addressList","addrs":[{"@type":"adnl.address.udp","ip":1732600341,"port":30310}],"version":0,"reinit_date":0,"priority":0,"expire_at":0},"version":-1,"signature":"jJXTq0DhVKrC27NQHzjFZjsGnjeuI8k9xGIVJ+9bFnC7tDHSt7288sE+1lsm90kB/Hf31XaP+ILWZvSF3UQ6CQ=="},
-        {"@type":"dht.node","id":{"@type":"pub.ed25519","key":"Jzzqh2rLCAx/iywDSSAZAgvYpWYJcOA8Qu178yGxqdg="},"addr_list":{"@type":"adnl.addressList","addrs":[{"@type":"adnl.address.udp","ip":1732600340,"port":30310}],"version":0,"reinit_date":0,"priority":0,"expire_at":0},"version":-1,"signature":"b8mvYys6PgNswjrdsBAHaeF9LprSZQ/yuMIUgQlWrvXPbSuSiDP8Vr9bQkBN+o4rNNWR3Kp54apaYr5eOZ7+Dw=="},
-        {"@type":"dht.node","id":{"@type":"pub.ed25519","key":"hDxbRxCxeBY+KQRiHZCK7wnRUeBZ5MGiETHcmYnxBU0="},"addr_list":{"@type":"adnl.addressList","addrs":[{"@type":"adnl.address.udp","ip":1732600412,"port":30310}],"version":0,"reinit_date":0,"priority":0,"expire_at":0},"version":-1,"signature":"eT/VOdsfN6gs3kTrPbUCculTGR0W0PMfsquMgVV6lCnGaS/5wj9Ysv7MoM5PLa4UFXKVG3ZwO9zSUYNYKjK9DQ=="}
+        }
       ], 
       "@type": "dht.nodes"
     }, 
@@ -53,17 +45,17 @@
   "@type": "config.global", 
   "validator": {
     "zero_state": {
-      "file_hash": "6wwSQvDw6E2t6IWMr9KL9AxykiJxtbmiecXej8Ls9wQ=", 
+      "file_hash": "zqbIMgpm+MsPp18RjhOTbfFbUvK07ztKf+TpJJ8o7Fk=", 
       "seqno": 0, 
-      "root_hash": "/xRg94nASxf3kXYVJ7ChxVu8Uxr2eJfrZPx5BjEYQjs=", 
+      "root_hash": "rYiiRZ+d4jDLQvVj9u+B/y9+f6nAwhT62dlu6qqu5g4=", 
       "workchain": -1, 
       "shard": -9223372036854775808
     }, 
     "@type": "validator.config.global", 
     "init_block": {
-      "file_hash": "6wwSQvDw6E2t6IWMr9KL9AxykiJxtbmiecXej8Ls9wQ=", 
+      "file_hash": "zqbIMgpm+MsPp18RjhOTbfFbUvK07ztKf+TpJJ8o7Fk=", 
       "seqno": 0, 
-      "root_hash": "/xRg94nASxf3kXYVJ7ChxVu8Uxr2eJfrZPx5BjEYQjs=", 
+      "root_hash": "rYiiRZ+d4jDLQvVj9u+B/y9+f6nAwhT62dlu6qqu5g4=", 
       "workchain": -1, 
       "shard": -9223372036854775808
     }
