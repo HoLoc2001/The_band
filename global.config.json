@@ -1,17 +1,13 @@
 {
   "liteservers": [
     {
-      "ip": 1732600343, 
+      "ip": 1732600341,
+      "port": 39107,
       "id": {
-        "@type": "pub.ed25519", 
-        "key": "cVr+N86VsiyTQvAkd+tzx5UUq7uj6xxWqEcLqubpNNE="
-      }, 
-      "port": "46732"
-    },
-    {"id":{"key":"7VYrNPuP6uV93BQrbsP85vbopAxegKCyvq0ntc2P3Rk=", "@type":"pub.ed25519"}, "port":"46732", "ip":1732600342, "ws":"ws://103.69.98.22:46733" },
-    {"id":{"key":"lQtlfzt5Xa7alqNAr0Z1gOWOWVbsNjXqvZgbK1USq+g=", "@type":"pub.ed25519"}, "port":"46732", "ip":1732600340, "ws":"ws://103.69.98.20:46733" },
-    {"id":{"key":"vXEnhqDFFJC0xLMj9U3oQhgARnyUJu85OAZJGWNF7y0=", "@type":"pub.ed25519"}, "port":"46732", "ip":1732600412, "ws":"ws://103.69.98.92:46733" },
-    {"id":{"key":"rgrXwyimUlUNlFxOpKzqs7THf7Zya39N0Jjput4KIU4=", "@type":"pub.ed25519"}, "port":"46732", "ip":1732600341, "ws":"ws://103.69.98.21:46733" }
+          "@type": "pub.ed25519",
+          "key": "3KTD4jK1z1vkvYXlDmIAtua4PkBCTYsyorXHTYWDUMc="
+      }
+  }
   ], 
   "dht": {
     "a": 3, 
