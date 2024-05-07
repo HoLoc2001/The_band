@@ -1,13 +1,13 @@
 {
   "liteservers": [
     {
-      "ip": 1732600343, 
+      "ip": 1732600341,
+      "port": 33293,
       "id": {
-        "@type": "pub.ed25519", 
-        "key": "Ewg/3hYB0+zf0j+/rjOUx3nbb2FYZTndlZQOXqRHb1E="
-      }, 
-      "port": "46732"
-    }
+          "@type": "pub.ed25519",
+          "key": "VaXCG0uWD1gP8fdwWEjOyG2VWLjSv++/IbSOkTI07Mk="
+      }
+  }
   ], 
   "dht": {
     "a": 3, 
