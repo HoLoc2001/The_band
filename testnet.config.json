@@ -1,13 +1,5 @@
 {
   "liteservers": [
-    {
-      "ip": 1732600341, 
-      "id": {
-        "@type": "pub.ed25519", 
-        "key": "jPZ7l4WPeJJ01yTfq4AMn0UDWH74BFekYLfe0jRfWhg="
-      }, 
-      "port": "46732"
-    },
     {"id":{"key":"K15R2zLXnZgQcdib7g1WOLN+883yBn3H141iGfkz5mk=", "@type":"pub.ed25519"}, "port":"46732", "ip":1732600342, "ws":"ws://103.69.98.22:46733" },
     {"id":{"key":"euaG28W3F/XNQnla1ZzSkBfXk8RBGBdmn1z956MnICs=", "@type":"pub.ed25519"}, "port":"46732", "ip":1732600343, "ws":"ws://103.69.98.23:46733" }
   ], 
@@ -16,29 +8,6 @@
     "k": 3, 
     "static_nodes": {
       "nodes": [
-        {
-          "signature": "NEJc1MIj86gyNk8e/rmLHxNRwG5UZunaOjCgsyjokRloIKPvukYwj2BFm3UVAb/2d1qTbcf+NCOXRgKYavobAA==", 
-          "version": -1, 
-          "addr_list": {
-            "priority": 0, 
-            "version": 0, 
-            "addrs": [
-              {
-                "ip": 1732600341, 
-                "@type": "adnl.address.udp", 
-                "port": 30310
-              }
-            ], 
-            "@type": "adnl.addressList", 
-            "expire_at": 0, 
-            "reinit_date": 0
-          }, 
-          "@type": "dht.node", 
-          "id": {
-            "@type": "pub.ed25519", 
-            "key": "octx6D4yUhGawUHdf+L/AJkmZs8PPw2hfFxtD9vJtdQ="
-          }
-        },
         {"@type":"dht.node","id":{"@type":"pub.ed25519","key":"RW3riEpDfYcosXyawF3ABMiYmjjEcrhYt6qGs7rp8v4="},"addr_list":{"@type":"adnl.addressList","addrs":[{"@type":"adnl.address.udp","ip":1732600342,"port":30310}],"version":0,"reinit_date":0,"priority":0,"expire_at":0},"version":-1,"signature":"VxFVSe4AgmugTZUyEVXCo8hVAdajTO4ZgXa8w2GlToOz77aC1eZghHl6eK84EkpjUwxLV1DavEyyqeZ2K9BpDQ=="},
         {"@type":"dht.node","id":{"@type":"pub.ed25519","key":"NHsFBvjcCEXzhaq+5tI858yTTwPW8u6b2DmX1gVvlcI="},"addr_list":{"@type":"adnl.addressList","addrs":[{"@type":"adnl.address.udp","ip":1732600343,"port":30310}],"version":0,"reinit_date":0,"priority":0,"expire_at":0},"version":-1,"signature":"/B/xMPwNKm29hCoc9cG3DD0BpEZeDRzjCPOC/ASwTaIk/j45c/sreXNWU4kwO1UrkkTCODjCWdllkZk/ljQgDg=="}
       ], 
